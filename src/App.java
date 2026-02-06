@@ -23,4 +23,12 @@ public class App {
     public static int div(int a,int b){
         return 0;
     }
+
+    public static int avg(int a,int b){
+        return 0;
+    }
+
+    public static int max(int a,int b){
+        return 0;
+    }
 }
