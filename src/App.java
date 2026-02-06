@@ -25,7 +25,7 @@ public class App {
     }
 
     public static int avg(int a,int b){
-        return 0;
+        return (a+b)/2;
     }
 
     public static int max(int a,int b){
